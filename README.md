@@ -5,7 +5,7 @@ Menu to change your game coins on Anton app. (Not just visual)
 > 
 ## 🚀 Installation Guide
 
-You can run this script using a Userscript Manager extension. The process is similar for both major browsers.
+You can run this script using a Userscript Manager extension. The process is similar for both major browsers. 
 
 ### For Google Chrome
 1. Install the [Page Manipulator](https://chromewebstore.google.com/detail/page-manipulator/mdhellggnoabbnnchkeniomkpghbekko) extension from the Chrome Web Store.
